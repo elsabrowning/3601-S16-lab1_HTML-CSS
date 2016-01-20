@@ -17,3 +17,17 @@ img {
 .centerText {
     text-align: center;
 }
+
+#navigation{
+    color: red;
+    text-align: center;
+    background-color: aqua;
+}
+
+#companyName {
+        color: white;
+        text-align: center;
+        background-color: deepskyblue;
+        font-family: cursive;
+
+}
