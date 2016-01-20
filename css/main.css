@@ -25,9 +25,15 @@ img {
 }
 
 #companyName {
-        color: white;
+        color: #cb0049;
         text-align: center;
         background-color: deepskyblue;
         font-family: cursive;
 
+}
+
+
+
+body{
+    background-color:darkseagreen;
 }
