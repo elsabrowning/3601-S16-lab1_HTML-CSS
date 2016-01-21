@@ -65,3 +65,11 @@ body{
 #navigation li a:hover {
     background-color: #bc8cbc;
 }
+
+#footer{
+    text-align: center;
+    font-size: smaller;
+    line-height: 20%;
+    padding: 10px;
+    background-color: #91acfe;
+}
