@@ -19,26 +19,49 @@ img {
 }
 
 #navigation{
-    color: red;
     text-align: center;
-    background-color: aqua;
 }
 
 #companyName {
-        color: #cb0049;
+        color: #2d28bf;
         text-align: center;
-        background-color: deepskyblue;
-        font-family: cursive;
+        font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 
 }
 
 #container{
     margin: 0 auto;
     width: 1000px;
-    background-color: blue;
+    background-color: #6ee1fa;
 }
 
 
+
 body{
-    background-color:#900c3f;
+    background-color: purple;
+}
+
+#navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #896389;
+}
+
+#navigation li {
+    display: inline-block;
+}
+
+#navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+#navigation li a:hover {
+    background-color: #bc8cbc;
 }
