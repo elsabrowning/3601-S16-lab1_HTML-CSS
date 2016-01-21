@@ -32,8 +32,13 @@ img {
 
 }
 
+#container{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: blue;
+}
 
 
 body{
-    background-color:darkseagreen;
+    background-color:#900c3f;
 }
