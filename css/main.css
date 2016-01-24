@@ -10,28 +10,65 @@ p, h4 {
 }
 
 img {
-    display:inline-block;
     margin-left: auto;
     margin-right: auto;
 
 }
 
-.resize1 {
-    width: 30%;
+.marginer {
+    margin-left: 150px;
 }
+
+.inLiner{
+    display:inline-block;
+}
+
+.resize1 {
+    width: 320px;
+}
+
+figure {
+    display: table;
+    width: 1px;
+}
+
+.imageAndFig {
+    display: table-row;
+}
+
+.floatL {
+    float: left;
+}
+
+.floatR {
+    float: right;
+}
+
 
 .resize2 {
-    width: 40%;
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    transform: rotate(90deg);
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: -50px;
+    width: 350px;
+
+
 }
 
+.resize3 {
+    width: 50%;
+    margin: 50px 0px 50px -50px;
+    float: right;
+}
+
+.clearIt {
+    clear: right;
+}
+
+.info{
+    color: #ab6644;
+
+}
+
+summary{
+    color:#ab6644;
+}
 
 .centerText {
     text-align: center;
