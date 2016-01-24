@@ -32,6 +32,11 @@ figure {
     width: 1px;
 }
 
+.nothingChanged{
+    display: inline-block;
+    width: auto;
+}
+
 .imageAndFig {
     display: table-row;
 }
@@ -53,8 +58,10 @@ figure {
 
 .resize3 {
     width: 50%;
-    margin: 50px 0px 50px -50px;
-    float: right;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
 }
 
 .clearIt {
