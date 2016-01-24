@@ -11,13 +11,19 @@ p, h4 {
 
 img {
     display:inline-block;
-    width: 40%;
     margin-left: auto;
     margin-right: auto;
 
 }
 
+.resize1 {
+    width: 50%;
+    height: 50%;
+}
 
+.resize2 {
+    width: 10%;
+}
 
 
 .centerText {
