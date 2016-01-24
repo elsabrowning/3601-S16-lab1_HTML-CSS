@@ -59,14 +59,8 @@ figure {
 .resize3 {
     width: 50%;
     display: block;
-    margin-right: auto;
-    margin-left: auto;
-
 }
 
-.clearIt {
-    clear: right;
-}
 
 .info{
     color: #ab6644;
